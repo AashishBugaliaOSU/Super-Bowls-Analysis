@@ -6,3 +6,6 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
  2. How does the game affect television viewership?
  3. How have viewership, TV ratings, and ad cost evolved over time?
  4. Who are the most prolific musicians in terms of halftime show performances?
+ 
+Data description:
+The dataset used in this project was scraped and polished from Wikipedia. It is made up of three CSV files, one with game data, one with TV data, and one with halftime musician data for all 52 Super Bowls through 2018.
